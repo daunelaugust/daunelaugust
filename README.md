@@ -1,6 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=daunelaugust&theme=java-dark&border_radius=6)](https://git.io/streak-stats)
 
-![Daunel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daunelaugust&count_private=trues&show_icons=true&theme=radical)
 ### Greetings everyone I'm Daunel Augustin Jr!
 * I like to write code and make cool games. There are a few stored under the "Projects" repository! 💫
 * Langauges I'm fluent in:
