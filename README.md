@@ -12,7 +12,7 @@
 * On the lookout for comrades that are looking to join forces with me and embark a journey across the Grand Line! Send a message @ daunelaugustin@gmail.com, and let's create something neat. May the seas be in your favor🙏🏾
 
 ## About me
-* I'm currently enrolled in computer science courses at UPenn and work as a Research Specialist in a Molecular Neuroengineering Lab.  My sights are set on conquering both realms and mastery of full-stack development, where I plan to bring my ideas to life. Join me on this journey, and together, we'll turn ambitious ideas into seamless, functional realities. Exciting times ahead—let's together code in the future!
+* I'm currently enrolled in computer science courses at UPenn and work as a Research Specialist in a Molecular Neuroengineering Lab. I'm on a path to master full-stack development, where I plan to bring my ideas to life. Join me on this journey, and together, we'll turn any idea into reality.
 <!---
 daunelaugust/daunelaugust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
