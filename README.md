@@ -7,8 +7,13 @@
      - [x]  C/C++
      - [x]  HTML/CSS/Vanilla Js
      - [x]  SQL
-     - [x]  MERN Stack
-     - [ ]  MEAN Stack
+
+* Tech Stacks
+     - [x]  MERN 
+     - [ ]  MEAN
+     - [ ]  MEVN 
+     - [ ]  LAMP
+     - [ ]  Django-React
 * Currently honing my full stack dev skills to build so new tech and shake up the world.
 * On the lookout for comrades that are looking to join forces with me and embark a journey across the Grand Line! Send a message @ daunelaugustin@gmail.com, and let's create something neat. May the seas be in your favor🙏🏾
 
