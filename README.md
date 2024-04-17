@@ -14,6 +14,8 @@
      - [ ]  MEVN 
      - [ ]  LAMP
      - [ ]  Django-React
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daunelaugust&theme=tokyonight&exclude_repo=Basketball-Data-Analysis&show_icons=true&hide_border=true&layout=donut&langs_count=8"/>
 * Currently honing my full stack dev skills to build so new tech and shake up the world.
 * On the lookout for comrades that are looking to join forces with me and embark a journey across the Grand Line! Send a message @ daunelaugustin@gmail.com, and let's create something neat. May the seas be in your favor🙏🏾
 
