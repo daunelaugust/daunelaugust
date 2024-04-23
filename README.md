@@ -7,10 +7,11 @@
      - [x]  C/C++
      - [x]  HTML/CSS/Vanilla Js
      - [x]  SQL
+     - [ ]  Swift
 
 * Tech Stacks
      - [x]  MERN 
-     - [ ]  MEAN
+     - [x]  MEAN
      - [ ]  MEVN 
      - [ ]  LAMP
      - [ ]  Django-React
