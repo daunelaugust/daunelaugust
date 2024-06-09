@@ -21,7 +21,7 @@
 * On the lookout for comrades that are looking to join forces with me and embark a journey across the Grand Line! Send a message @ daunelaugustin@gmail.com, and let's create something neat. May the seas be in your favor🙏🏾
 
 ## About me
-* I'm an alumni of UPenn with a Master's Degree in Computer Science and work as a Research Specialist in a Molecular Neuroengineering Lab. I'm on a path to master full-stack development, where I plan to bring my ideas to life. Join me on this journey, and together, we'll turn any idea into reality.
+* I'm an alumni of UPenn with a Master's Degree in Computer Science and also work there as a Research Specialist in a Molecular Neuroengineering Lab. I'm on a path to master full-stack development, where I plan to bring my ideas to life. Join me on this journey, and together, we'll turn any idea into reality.
 <!---
 daunelaugust/daunelaugust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
