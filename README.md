@@ -7,6 +7,7 @@
      - [x]  C/C++
      - [x]  HTML/CSS/Vanilla Js
      - [x]  SQL
+     - [x]  Matlab
      - [ ]  Swift
 
 * Tech Stacks
