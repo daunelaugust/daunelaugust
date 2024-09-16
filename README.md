@@ -1,7 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=daunelaugust&theme=violet-punch&border_radius=6)](https://git.io/streak-stats)
 ### Greetings everyone I'm Daunel Augustin Jr!
-* I like to write code and make cool games. There are some games stored under the "Projects" repo 💫
-* New video Game coming soon
+* I like to write code and make cool Projects. Check out some of my featured repos below 💫
+* New project coming soon
 * Langauges I'm fluent in:
      - [x]  Python
      - [x]  Java
