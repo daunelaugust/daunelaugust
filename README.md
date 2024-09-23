@@ -6,7 +6,8 @@
      - [x]  Python
      - [x]  Java
      - [x]  C/C++
-     - [x]  HTML/CSS/Vanilla Js
+     - [x]  JavaScript
+     - [x]  HTML/CSS
      - [x]  SQL
      - [x]  MATLAB
      - [ ]  Swift
