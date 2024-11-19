@@ -1,4 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=daunelaugust&theme=violet-punch&border_radius=6)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=daunelaugust&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 ### Greetings everyone I'm Daunel Augustin Jr!
 * I like to write code and make cool Projects. Check out some of my featured repos below for interesting projects💫
 * New project coming soon
