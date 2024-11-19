@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=daunelaugust&theme=violet-punch&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-amber-theta.vercel.app?user=daunelaugust&theme=youtube-dark&border_radius=20)](https://git.io/streak-stats)
 ### Greetings everyone I'm Daunel Augustin Jr!
 * I like to write code and make cool Projects. Check out some of my featured repos below for interesting projects💫
 * New project coming soon
