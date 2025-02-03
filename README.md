@@ -2,7 +2,7 @@
 ### Greetings everyone I'm Daunel Augustin Jr!
 * I like to write code and make cool Projects. Check out some of my featured repos below for interesting projects💫
 * New project coming soon
-* Langauges I'm fluent in:
+* Languages I'm fluent in:
      - [x]  Python
      - [x]  Java
      - [x]  C/C++
