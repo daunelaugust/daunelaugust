@@ -14,7 +14,6 @@
 
 * Tech Stacks
      - [x]  MERN 
-     - [x]  MEAN
      - [x]  Django-React
      - [ ]  MEVN 
      - [ ]  LAMP
