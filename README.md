@@ -1,7 +1,7 @@
 [![GitHub Streak](https://github-readme-streak-stats-amber-theta.vercel.app?user=daunelaugust&theme=neon&border_radius=20)](https://git.io/streak-stats)
 ### Greetings everyone I'm Daunel Augustin Jr!
 * I like to write code and make cool Projects. Check out some of my featured repos below for interesting projects💫
-* New project coming soon
+* New NBA betting project coming soon
 * Languages I'm fluent in:
      - [x]  Python
      - [x]  Java
