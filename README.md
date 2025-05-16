@@ -10,11 +10,13 @@
      - [x]  HTML/CSS
      - [x]  SQL
      - [x]  MATLAB
+     - [ ]  Ruby
      - [ ]  Swift
 
 * Tech Stacks
      - [x]  MERN 
      - [x]  Django-React
+     - [ ]  Rails
      - [ ]  MEVN 
      - [ ]  LAMP
      
