@@ -16,7 +16,7 @@
 * Tech Stacks
      - [x]  MERN 
      - [x]  Django-React
-     - [x]  Rails
+     - [x]  Ruby on Rails
      - [ ]  MEVN 
      - [ ]  LAMP
      
